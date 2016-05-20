@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+<longdescription lang="en">
+	xnots is a simple QT5-based sticky note application that reads all notes
+	from flat files in the xnots directory (default ~/.xnots).
+</longdescription>
+<use>
+	<flag name='markdown'>Enables markdown support using <pkg>app-text/discount</pkg>.</flag>
+</use>
+</pkgmetadata>
